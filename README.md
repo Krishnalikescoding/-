@@ -5,3 +5,5 @@ An exciting feature of the game is the ability to place a bet before each round.
 My goal is to transform this game into an website. I’m aiming for a UI that’s not only simple and visually engaging but also easy for players of all skill levels to dive right in.
 
 If you have knowledge of design and desire to contribute, I’d love to collaborate. Additionally, if anyone has suggestions to refine or simplify the core mechanics of the game, your ideas are more than welcome. Let’s work together on this simple project.
+
+~Thank you!
