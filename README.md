@@ -1,4 +1,4 @@
-Hello, my name is Krishna Gupta, and I am a first-year BTCSE student. I’ve built the foundation for an exciting "Guess the Number" game, programmed in C, where the system randomly selects a number between 1 and 100, and the player must guess it based on hints like "too high" or "too low." Now, I’m looking for creative minds to help design a sleek, user-friendly interface (UI) that elevates the overall experience.
+Hello, my name is Krishna Gupta, and I am a first-year BTCSE student. I’ve built the foundation for an exciting "Guess the Number" game, programmed in C, where the system randomly selects a number between 1 and 100, and the player must guess it based on hints like "Try Higher Number" or "Try Lower Number." Now, I’m looking for creative minds to help design a sleek, user-friendly interface (UI) that elevates the overall experience.
 
 An exciting feature of the game is the ability to place a bet before each round. If you correctly guess the number, you win 1.75 times the amount you wagered, adding an element of thrill to each guess!
 
