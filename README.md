@@ -5,5 +5,3 @@ An exciting feature of the game is the ability to place a bet before each round.
 My goal is to transform this game into an website. I’m aiming for a UI that’s not only simple and visually engaging but also easy for players of all skill levels to dive right in.
 
 If you have knowledge of design and desire to contribute, I’d love to collaborate. Additionally, if anyone has suggestions to refine or simplify the core mechanics of the game, your ideas are more than welcome. Let’s work together on this simple project.
-
-Guess the number: In this exciting game of intuition and logic, the system secretly selects a random number between 1 and 100. Your task is to guess the correct number! After each guess, you’ll receive helpful hints whether your guess is too high, too low, or just right. Use these clues to zero in on the mystery number. 
